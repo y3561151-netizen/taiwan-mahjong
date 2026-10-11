@@ -1,0 +1,20 @@
+台灣麻將（網頁版）
+Copyright (c) 2026 TES111。保留所有權利。All rights reserved.
+
+本網站提供的遊戲程式及其內容僅供個人免費遊玩。未經著作權人書面同意，不得重製、修改、
+散布、販售或以其他方式利用本程式之全部或一部分。
+
+遊戲中的金額均為虛擬點數，不具任何財產價值，不得兌換，亦與任何形式的金錢賭博無關。
+
+本軟體依「現狀」（AS IS）提供，不附帶任何明示或默示之擔保，包括但不限於可售性、
+特定用途適用性及不侵權之擔保。在任何情況下，著作權人均不對因使用或無法使用本軟體
+所生之任何損害或其他責任負責。
+
+This software is provided "AS IS", without warranty of any kind, express or implied.
+In no event shall the copyright holder be liable for any claim, damages or other
+liability arising from the use of this software. In-game money is virtual and has
+no monetary value.
+
+第三方元件（依各自授權條款）：
+- Godot Engine（MIT 授權）：licenses/GODOT_LICENSE.txt、licenses/GODOT_THIRDPARTY.txt
+- Noto Sans TC、Noto Serif TC 字型（SIL Open Font License 1.1）：licenses/OFL.txt
