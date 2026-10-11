@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791713065|3192034';
+const CACHE_VERSION = '1791729038|4980489';
 /** @type {string} */
 const CACHE_PREFIX = '台灣麻將-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
